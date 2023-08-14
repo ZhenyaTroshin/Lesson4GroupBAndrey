@@ -1,6 +1,6 @@
 public class HomeWork7 {
     public static void main(String[] args) {
         System.out.println("Hello git!");
-        System.out.printf("hello git Zhenya");
+        System.out.println("hello git Zhenya");
     }
 }
